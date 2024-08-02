@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @deva022
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning cse
-- 📫 How to reach me ---dev052003dkp@gmail.com
+- 👋 Hi, I’m @deva022 , Welcome to my Github Profile
+- 📫 How to reach me --- dev052003dkp@gmail.com
 
 <!---
 deva022/deva022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
