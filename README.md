@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @deva022 , Welcome to my Github Profile
+- Proficient in AI, machine learning,
+NLP ,computer vision, with a
+specialization and experience in
+Generative AI
 - 📫 How to reach me --- dev052003dkp@gmail.com
 
 <!---
